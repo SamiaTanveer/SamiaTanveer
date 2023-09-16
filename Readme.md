@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend Web-developer</h3>
 
 - 📫 How to reach me **samiatanveer2000@gmail.com**
-
+- 📫 How to reach me **https://www.linkedin.com/in/samia-tanveer-0bbba0214/**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
