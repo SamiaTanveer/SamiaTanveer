@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Samia Tanveer</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
-<p align="center">
-I'm a highly motivated Software Engineer specializing in full-stack web development. My expertise lies in building efficient, scalable, and responsive web applications using modern frontend and backend technologies. With a deep understanding of both client-side and server-side development, I am passionate about solving complex problems and delivering high-quality solutions that improve user experience.
-</p>
-<p align="center">
-  📫 <strong>Connect with me:</strong> &nbsp;
-  <a href="mailto:samiatanveer2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>  
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/samia-tanveer-0bbba0214" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Samia Tanveer <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlujGA1cdBU5OWhUYv6AmECqE6HbmH9OQdTxxoW95yTBdiksWMOmbhIZ8&s" width="50"/></h1> <h3 align="center">Software Engineer | Full Stack Developer</h3>
+<p align="left"> Passionate about crafting seamless, scalable, and efficient web applications, I specialize in both frontend and backend development. My goal is to bridge the gap between intuitive user experiences and powerful, functional systems. Whether it's building from scratch or improving existing architectures, I'm dedicated to delivering robust solutions. </p>
+<!-- <div align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/> </div> -->
+🌐 I’m proficient in developing both client-side and server-side applications.
+🔭 I’m currently working on exciting web projects
+🌱 I’m exploring DevOps and cloud technologies to enhance my development workflow.
+💬 Ask me about web development, APIs, databases, and design patterns.
+⚡ Fun Fact: I love problem-solving challenges like those on GeeksforGeeks.
 
+<h4> 🔗 Connect with Me at  <a href="https://www.linkedin.com/in/samia-tanveer-0bbba0214" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> </h4>
+<img src="https://komarev.com/ghpvc/?username=samiatanveer&style=flat-square&color=blue" alt=""/>
+
+<h4>🛠 Techn Stack:</h4>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="34" height="34" title="HTML5"/>
@@ -48,6 +45,9 @@ I'm a highly motivated Software Engineer specializing in full-stack web developm
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJs" width="40" height="40" title="NestJS"/>
   </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" title="Redux"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
   </a>
@@ -78,18 +78,18 @@ I'm a highly motivated Software Engineer specializing in full-stack web developm
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="Googlecloud" width="40" height="40" title="Googlecloud"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira"/>
-  </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40" title="Swagger"/>
+  </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira"/>
   </a>
 <!--     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="CLI" width="40" height="40" title="CLI"/>
   </a> -->
 </p>
 
-<h3 align="left">Other Skills:</h3>
+<h3 align="left">Soft Skills:</h3>
 <p align="left">
   <strong>Communication and Presentation | Project Management | Teamwork & Leadership | Time Management</strong>
 </p>
