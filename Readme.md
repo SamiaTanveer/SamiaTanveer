@@ -10,7 +10,7 @@
 <h4> 🔗 Connect with Me at  <a href="https://www.linkedin.com/in/samia-tanveer-0bbba0214" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> </h4>
 <img src="https://komarev.com/ghpvc/?username=samiatanveer&style=flat-square&color=blue" alt=""/>
 
-<h4>🛠 Techn Stack:</h4>
+<h4>🛠 Tech Stack:</h4>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="34" height="34" title="HTML5"/>
